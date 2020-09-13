@@ -1,0 +1,11 @@
+{
+  "project": "teste",
+  "repository": "New",
+  "endpointDev": "http://localhost:3001",
+  "endpointProd": "",
+  "dockerImage": "waproject/teste",
+  "dockerCredentials": "Everton Oliveira",
+  "sentryDsn": "",
+  "confirmed": true,
+  "slug": "teste"
+}
